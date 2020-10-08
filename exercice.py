@@ -4,7 +4,7 @@
 # TODO: Importez vos modules ici
 import math
 import sys
-from sys.path(1,"C:\Users\gabri\PycharmProjects\c04-ch6-exercices-Gabbill")
+sys.path.insert(1, r"C:\Users\gabri\PycharmProjects\c04-ch6-exercices-Gabbill")
 from exercice2 import frequence
 
 #a)
